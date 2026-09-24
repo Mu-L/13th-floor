@@ -1,4 +1,7 @@
 ---
+genres:
+  - horror
+  - stealth
 directors_cut: https://roblouie.com/13th-floor-dc/
 video: https://youtu.be/eF0seNiHA-Y
 post: https://roblouie.com/article/1219/the-making-of-the-13th-floor-js13k-2024/
